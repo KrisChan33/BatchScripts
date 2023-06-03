@@ -31,7 +31,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="(https://www.google.com/url sa=i&url=https%3A%2F%2Fbashlogo.com%2F&psig=AOvVaw0ePLgOUTorg6EdyTtJ4ObJ&ust=1685850158540000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMDFr7OXpv8CFQAAAAAdAAAAABAI)">
+  <a href="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
