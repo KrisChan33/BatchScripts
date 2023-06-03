@@ -30,7 +30,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://d33wubrfki0l68.cloudfront.net/306f655dcc33cc3d958cab80d78d3f2da427974c/a2bd8/img/logo/svg/full_colored_dark.svg">
+  <a href="https://bashlogo.com/img/logo/png/full_colored_dark.png">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
