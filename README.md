@@ -40,7 +40,7 @@ This are the Batch I manually Created some batch file have a Specific Used so ch
       <ul>
         <li><a href ="#Goal">Goal</li>
          <li><a href ="#">asdsa</li>
-          <li><a href ="#Batch Script #1 : Delete Temporary Files Every 5 Seconds">Batch Script #1 : Delete Temporary Files Every 5 Seconds</li>
+          <li><a href ="#Batch Script #1 : Delete all Temporary Files Every 5 Seconds">Delete all Temporary Files Every 5 Seconds</li>
        <li><a href ="#">#Batch Script #2</li>
          <li><a href ="#">#Batch Script #3</li>
          <li><a href ="#">#Batch Script #4</li>
@@ -78,7 +78,7 @@ This are the Batch I manually Created some batch file have a Specific Used so ch
 ### Goal
 <p>My Goal is to create a batch scripts that can easily do a simple task for me. I create this scripts easily do the task by the help of batch command I easily created a shortcut to do a specific task</p> 
 
-### Batch Script #1 : Delete Temporary Files Every 5 Seconds
+### Batch Script #1 : Delete All Temporary Files Every 5 Seconds
 
 <p>An adventurous kid wants to explore and challenge himself. He is wearing red hat, brown boots, green shirts and blue short.
 <br />
