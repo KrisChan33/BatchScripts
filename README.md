@@ -39,7 +39,8 @@ This are the Batch I manually Created some batch file have a Specific Used so ch
       <a href="#Game-Overview">Game Overview</a>
       <ul>
         <li><a href ="#Goal">Goal</li>
-         <li><a href ="#Batch Script #1 : Delete Temporary Files Every 5 Seconds">Batch Script #1 : Delete Temporary Files Every 5 Seconds</li>
+         <li><a href =""></li>
+          <li><a href ="#Batch Script #1 : Delete Temporary Files Every 5 Seconds">Batch Script #1 : Delete Temporary Files Every 5 Seconds</li>
        <li><a href ="#">#Batch Script #2</li>
          <li><a href ="#">#Batch Script #3</li>
          <li><a href ="#">#Batch Script #4</li>
