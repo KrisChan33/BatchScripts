@@ -91,34 +91,23 @@ The character may have a health bar or lives that decrease when they take damage
 </div>
 
 ### Batch Script #2
-<i>Movement</i>: The player controls a character that can move in all three dimensions. The character can walk, run, jump, and sometimes even fly or swim to navigate through the game's environment. ![Movement](https://github.com/KrisChan33/Obstacle-Odyssey-3D/blob/main/Images/mechanics.png)
-<br/>
+<i>to be followed</i>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Obstacles</i>: The game is filled with various obstacles that the player must avoid or overcome. These can include physical barriers like walls and fences, pits and gaps that must be jumped over, and moving platforms that require careful timing and precision.![Obstacle](https://github.com/KrisChan33/Obstacle-Odyssey-3D/blob/main/Images/Obstacles.PNG)
-<br/>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i> Challenges</i>: In addition to avoiding obstacles, the game may have challenges that the player must complete to progress through the levels. These challenges may involve puzzles, mini-games, or tasks that must be completed within a certain time limit.![Challenges](https://github.com/KrisChan33/Obstacle-Odyssey-3D/blob/main/Images/Challenges.png)
-<br/>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<i>Collectibles</i>: Many 3D obstacle games have collectibles scattered throughout the levels, such as coins. These items may be used to increase the player's score, enhance their abilities, or unlock new levels or characters.![Collectibles](https://github.com/KrisChan33/Obstacle-Odyssey-3D/blob/main/Images/Collectibles.png)
-<br/>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Health and lives</i>: The player's character may have a limited amount of health or lives that decrease when they take damage from obstacles or hazards. If the character loses all of their health or lives, the game ends and the player must restart from the beginning or a checkpoint.![HealthandLives](https://github.com/KrisChan33/Obstacle-Odyssey-3D/blob/main/Images/HealthandLives.png)
 <br/>
 
 ### Batch Script #3
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In a 3D obstacle Odyssey game, the player interacts with the game using controls to move the character and navigate obstacles, adjust the camera angle, use strategy to solve challenges, collect items to progress and increase the score, avoid losing health and lives, and complete challenges to unlock new levels or characters. The game requires the player's active participation and attention to overcome obstacles and progress through the game.
+<i>to be followed</i>
+
+<br/>
 
 ### #Batch Script #4
-<i>Easy levels</i>: The first few levels of the game may be relatively simple, with straightforward obstacles and challenges that allow the player to get familiar with the game. The user interface may display the player's score, the number of lives they have left, and any items they have collected.
+<i>to be followed</i>
 
-<i>Increasing difficulty</i>: As the game progresses, the levels become more challenging, with more complex obstacles and challenges. The user interface may include a map of the level, showing the player's progress and any upcoming obstacles or challenges.
-
-<i>Time-based challenges</i>: Some levels may have a time limit, requiring the player to complete a task within a certain amount of time. The user interface may display a timer, as well as any bonuses the player can collect to extend their time.
-
+<br/>
 ### Batch Script #5
-Trophies: The player may earn trophies and achievements for completing certain challenges or tasks within the game.
+<i>to be followed</i>
 
+<br/>
  
 ### Built With</p>
 
@@ -249,23 +238,6 @@ Email Address: Ktadeo.pbox@parsu.edu.ph
 [license-shield]: https://img.shields.io/github/license/KrisChan33/BashScripts.svg?style=for-the-badge
 [license-url]: https://github.com/KrisChan33/BashScripts/blob/master/LICENSE
 [linkedin-url]: https://linkedin.com/in/kristian-jay-tadeo
-[product-screenshot]: images/screenshot.png
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
-[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[Vue-url]: https://vuejs.org/
-[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[Angular-url]: https://angular.io/
-[Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
-[Svelte-url]: https://svelte.dev/
-[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-[Laravel-url]: https://laravel.com
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
 
 <hr>
 
