@@ -211,7 +211,7 @@ Email Address: Ktadeo.pbox@parsu.edu.ph
  this space is list of resources I find helpful and would like to give credits to the following: 
 
 
- <h3>to be follow</h3>
+<i>to be followed</i>
 <!--
 * [Godot engine](https://godotengine.org/)
 * [Mixamo](https://www.mixamo.com/)
