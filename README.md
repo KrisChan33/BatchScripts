@@ -41,12 +41,12 @@ Obstacle Odyssey 3D is a Free and Open-Source Obstacle game made with the [Godot
       <ul>
         <li><a href ="#Goal">Goal</li>
          <li><a href ="#Batch Script #1 : Delete Temporary Files Every 5 Seconds">Batch Script #1 : Delete Temporary Files Every 5 Seconds</li>
-       <!--  <li><a href ="#Mechanics">Mechanics</li>
-         <li><a href ="#Interaction">Interaction</li>
-         <li><a href ="#Conflict/Challenges">Conflict/Challenges</li>
-         <li><a href ="#Rewards">Rewards</li>
-         <li><a href="#built-with">Built With</a></li>
-         <li><a href ="#Developer">Developer</li> -->
+       <li><a href ="#">#Batch Script #2</li>
+         <li><a href ="#">#Batch Script #3</li>
+         <li><a href ="#">#Batch Script #4</li>
+         <li><a href ="#">#Batch Script #5</li>
+         <li><a href="#">#Batch Script #6</a></li>
+         <li><a href ="#">#Batch Script #7</li>
       </ul>
     </li>
     <li>
@@ -90,7 +90,7 @@ The character may have a health bar or lives that decrease when they take damage
 
 </div>
 
-### Mechanics
+### Batch Script #2
 <i>Movement</i>: The player controls a character that can move in all three dimensions. The character can walk, run, jump, and sometimes even fly or swim to navigate through the game's environment. ![Movement](https://github.com/KrisChan33/Obstacle-Odyssey-3D/blob/main/Images/mechanics.png)
 <br/>
 
@@ -106,17 +106,17 @@ The character may have a health bar or lives that decrease when they take damage
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Health and lives</i>: The player's character may have a limited amount of health or lives that decrease when they take damage from obstacles or hazards. If the character loses all of their health or lives, the game ends and the player must restart from the beginning or a checkpoint.![HealthandLives](https://github.com/KrisChan33/Obstacle-Odyssey-3D/blob/main/Images/HealthandLives.png)
 <br/>
 
-### Interaction
+### Batch Script #3
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In a 3D obstacle Odyssey game, the player interacts with the game using controls to move the character and navigate obstacles, adjust the camera angle, use strategy to solve challenges, collect items to progress and increase the score, avoid losing health and lives, and complete challenges to unlock new levels or characters. The game requires the player's active participation and attention to overcome obstacles and progress through the game.
 
-### Conflict/Challenges
+### #Batch Script #4
 <i>Easy levels</i>: The first few levels of the game may be relatively simple, with straightforward obstacles and challenges that allow the player to get familiar with the game. The user interface may display the player's score, the number of lives they have left, and any items they have collected.
 
 <i>Increasing difficulty</i>: As the game progresses, the levels become more challenging, with more complex obstacles and challenges. The user interface may include a map of the level, showing the player's progress and any upcoming obstacles or challenges.
 
 <i>Time-based challenges</i>: Some levels may have a time limit, requiring the player to complete a task within a certain amount of time. The user interface may display a timer, as well as any bonuses the player can collect to extend their time.
 
-### Rewards
+### Batch Script #5
 Trophies: The player may earn trophies and achievements for completing certain challenges or tasks within the game.
 
  
@@ -221,13 +221,16 @@ Email Address: Ktadeo.pbox@parsu.edu.ph
 
  this space is list of resources I find helpful and would like to give credits to the following: 
 
+
+ <h3>to be follow</h3>
+<!--
 * [Godot engine](https://godotengine.org/)
 * [Mixamo](https://www.mixamo.com/)
 * [Blender](https://www.blender.org/)
 * [Turbo Squid](https://www.turbosquid.com/)
 * [Freepik](https://www.freepik.com/3d-models)
 
-
+-->
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -267,5 +270,5 @@ Email Address: Ktadeo.pbox@parsu.edu.ph
 <hr>
 
 ### Developer 
-<h3><b>Kristian Jay Tadeo :sunglasses:</b></h3>
+<h4><b>Kristian Jay Tadeo :sunglasses:</b></h4>
 <hr>
