@@ -81,13 +81,13 @@ This are the Batch I manually Created some batch file have a Specific Used so ch
 
 <h4>This Batch Script can delete all Temporary file Every 5 Seconds.</h4>
  what the Batch can delete? this are the example; 
--Internet cookies
--  Pretech
--  dll cache
--  temporary History Files
--  Internet 
--  Local Temporary File
--  Local setting history
+- Internet cookies**
+-  Pretech**
+-  dll cache**
+-  temporary History Files**
+-  Internet **
+-  Local Temporary File**
+-  Local setting history**
 
 - 🌱 I’m currently learning **Godot(GdScript)**
 
