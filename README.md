@@ -78,7 +78,6 @@ This are the Batch I manually Created some batch file have a Specific Used so ch
 <p>My Goal is to create a batch scripts that can easily do a simple task for me. I create this scripts easily do the task by the help of batch command I easily created a shortcut to do a specific task</p> 
 
 ### Batch Script #1 : Delete All Temporary Files Every 5 Seconds
-
 <video width="320" height="240" controls loop>
   <source src="https://github.com/KrisChan33/BatchScripts/blob/main/Videos/sytem%20img.mp4" type="video/mp4">
  
