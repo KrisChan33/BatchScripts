@@ -81,19 +81,20 @@ This are the Batch I manually Created some batch file have a Specific Used so ch
 
 <h4>This Batch Script can delete all Temporary file Every 5 Seconds.</h4>
  what the Batch can delete? this are the example; 
--  Internet cookies**
+ 
+-  Internet cookies
 
--  Pretech**
+-  Pretech
 
--  dll cache**
+-  dll cache
 
--  temporary History Files**
+-  temporary History Files
 
--  Internet **
+-  Internet 
 
--  Local Temporary File**
+-  Local Temporary File
 
--  Local setting history**
+-  Local setting history
 
 </div>
 
