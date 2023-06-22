@@ -79,6 +79,12 @@ This are the Batch I manually Created some batch file have a Specific Used so ch
 
 ### Batch Script #1 : Delete All Temporary Files Every 5 Seconds
 
+<video width="320" height="240" controls loop>
+  <source src="https://github.com/KrisChan33/BatchScripts/blob/main/Videos/sytem%20img.mp4" type="video/mp4">
+ 
+  Your browser does not support the video tag.
+</video>
+
 <h4>This Batch Script can delete all Temporary file Every 5 Seconds.</h4>
  What the Batch can delete or remove? this are the example; 
  
