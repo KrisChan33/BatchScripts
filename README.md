@@ -78,13 +78,14 @@ This are the Batch I manually Created some batch file have a Specific Used so ch
 <p>My Goal is to create a batch scripts that can easily do a simple task for me. I create this scripts easily do the task by the help of batch command I easily created a shortcut to do a specific task</p> 
 
 ### Batch Script #1 : Delete All Temporary Files Every 5 Seconds
+<h4>This Batch Script can delete all Temporary file Every 5 Seconds.</h4>
+
 #### Interface
   <img align = "center" src = "https://github.com/KrisChan33/BatchScripts/blob/main/images/interface.gif">
 
 #### How to it  Works
   <img align = "center" src = "https://github.com/KrisChan33/BatchScripts/blob/main/images/how%20it%20works.gif">
 
-<h4>This Batch Script can delete all Temporary file Every 5 Seconds.</h4>
  What the Batch can delete or remove? this are the example; 
  
 -  Internet cookies
