@@ -79,13 +79,15 @@ This are the Batch I manually Created some batch file have a Specific Used so ch
 
 ### Batch Script #1 : Delete All Temporary Files Every 5 Seconds
 
-<p>An adventurous kid wants to explore and challenge himself. He is wearing red hat, brown boots, green shirts and blue short.
-<br />
-The character is typically agile and able to move quickly, jump high, and perform other actions necessary to navigate through the three-dimensional environment and overcome obstacles. The character may also have special abilities or powers that can be used to overcome specific challenges in the game.
-<br />
-
-The character may have a health bar or lives that decrease when they take damage from obstacles or hazards in the game, and the player must avoid taking too much damage to prevent losing the game. The character may also be able to collect power-ups or items that enhance their abilities or restore their health.
-</p>
+<h4>This Batch Script can delete all Temporary file Every 5 Seconds.</h4>
+ what the Batch can delete? this are the example; 
+- Internet cookies
+- Pretech
+- dll cache
+- temporary History Files
+- Internet 
+- Local Temporary File
+- Local setting history
 
 </div>
 
