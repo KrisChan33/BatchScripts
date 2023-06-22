@@ -89,6 +89,13 @@ This are the Batch I manually Created some batch file have a Specific Used so ch
 -Local Temporary File
 -Local setting history
 
+- 🌱 I’m currently learning **Godot(GdScript)**
+
+- 💬 Ask me about **HTML,CSS,Php,SQL**
+
+- 📫 How to reach me **ktadeo.pbox@parsu.edu**
+
+- ⚡ Fun fact **I Love Coding 👨‍💻**
 </div>
 
 ### Batch Script #2
