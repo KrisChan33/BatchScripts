@@ -83,19 +83,24 @@ This are the Batch I manually Created some batch file have a Specific Used so ch
  what the Batch can delete? this are the example; 
 - 
 -  Pretech**
+
 -  dll cache**
+
 -  temporary History Files**
+
 -  Internet **
+
 -  Local Temporary File**
+
 -  Local setting history**
 
 - Internet cookies**
 
-- 💬 Ask me about **HTML,CSS,Php,SQL**
+- 
 
-- 📫 How to reach me **ktadeo.pbox@parsu.edu**
+- 
 
-- ⚡ Fun fact **I Love Coding 👨‍💻**
+- 
 </div>
 
 ### Batch Script #2
