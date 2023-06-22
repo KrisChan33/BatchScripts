@@ -69,7 +69,7 @@ This are the Batch I manually Created some batch file have a Specific Used so ch
 ## Batch Scripts Overview
 <br />
 <p align="center"> 
-  <img align = "center" src = "https://github.com/KrisChan33/BashScripts/blob/main/images/batch-file.png">
+  <img align = "center" src = "https://github.com/KrisChan33/BatchScripts/blob/main/images/batch-file.png">
 </p>
 
 <div align = "Justify">
@@ -126,7 +126,7 @@ This section  list are the major  used to to develop the Project.
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
-1. Just go to the Folder of "Bash File/Bash Scripts" Folder  
+1. Just go to the Folder of "Batch File/Bash Scripts" Folder  
 
 2.  choose what Batch Script you want to download 
 
@@ -226,16 +226,16 @@ Email Address: Ktadeo.pbox@parsu.edu.ph
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [Godot Engine]:https://godotengine.org/
-[contributors-shield]: https://img.shields.io/github/contributors/KrisChan33/BashScripts.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/KrisChan33/BatchScripts.svg?style=for-the-badge
 [contributors-url]: https://github.com/KrisChan33/Obstacle-Odyssey-3D/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/KrisChan33/BashScripts.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/KrisChan33/BastchScripts.svg?style=for-the-badge
 [forks-url]: https://github.com/KrisChan33/Obstacle-Odyssey-3D/network/members
-[stars-shield]: https://img.shields.io/github/stars/KrisChan33/BashScripts.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/KrisChan33/BatchScripts.svg?style=for-the-badge
 [stars-url]: https://github.com/KrisChan33/Obstacle-Odyssey-3D/stargazers
-[issues-shield]: https://img.shields.io/github/issues/KrisChan33/BashScripts.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/KrisChan33/BatchScripts.svg?style=for-the-badge
 [issues-url]: https://github.com/KrisChan33/Obstacle-Odyssey-3D/issues
-[license-shield]: https://img.shields.io/github/license/KrisChan33/BashScripts.svg?style=for-the-badge
-[license-url]: https://github.com/KrisChan33/BashScripts/blob/master/LICENSE
+[license-shield]: https://img.shields.io/github/license/KrisChan33/BatchScripts.svg?style=for-the-badge
+[license-url]: https://github.com/KrisChan33/BatchScripts/blob/master/LICENSE
 [linkedin-url]: https://linkedin.com/in/kristian-jay-tadeo
 
 <hr>
