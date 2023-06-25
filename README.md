@@ -96,7 +96,7 @@ This are the Batch I manually Created some batch file have a Specific Used so ch
 
 -  temporary History Files
 
--  Internet 
+-  Internet Temporary files
 
 -  Local Temporary File
 
