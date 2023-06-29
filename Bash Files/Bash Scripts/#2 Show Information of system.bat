@@ -1,4 +1,9 @@
-﻿@echo off
+#Developer: Kristian Jay Tadeo 
+#Date Developed: 8/3/22
+#MIT License
+
+
+@echo off
 :cd "Location"
 nslookup myip.opendns.com resolver1.opendns.com>ComputerSysteminfo.log
 ver>>ComputerSysteminfo.log
