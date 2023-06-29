@@ -104,12 +104,11 @@ This are the Batch I manually Created some batch file have a Specific Used so ch
 </div>
 
 ### Batch Script #2 :Show Information of system
-<i>to be followed</i>
 #### Interface
-  <!--<img align = "center" src = "https://github.com/KrisChan33/BatchScripts/blob/main/images/interface.gif">
+ <i>to be followed</i> <!--<img align = "center" src = "https://github.com/KrisChan33/BatchScripts/blob/main/images/interface.gif">-->
 
 #### How to it  Works
-  <img align = "center" src = "https://github.com/KrisChan33/BatchScripts/blob/main/images/how%20it%20works.gif"> -->
+ <i>to be followed</i> <!--<img align = "center" src = "https://github.com/KrisChan33/BatchScripts/blob/main/images/how%20it%20works.gif"> -->
 
  What the Batch can Show? this are the example; 
  
