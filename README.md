@@ -40,7 +40,7 @@ This are the Batch I manually Created some batch file have a Specific Used so ch
       <ul>
         <li><a href ="#Goal">Goal</li>
           <li><a href ="#Batch Script #1 : Delete all Temporary Files Every 5 Seconds">Delete all Temporary Files Every 5 Seconds</li>
-       <li><a href ="#">#Batch Script #2</li>
+       <li><a href ="#">#Batch Script #2: Show Information of System</li>
          <li><a href ="#">#Batch Script #3</li>
          <li><a href ="#">#Batch Script #4</li>
          <li><a href ="#">#Batch Script #5</li>
@@ -103,8 +103,75 @@ This are the Batch I manually Created some batch file have a Specific Used so ch
 
 </div>
 
-### Batch Script #2
+### Batch Script #2 :Show Information of system
 <i>to be followed</i>
+#### Interface
+  <!--<img align = "center" src = "https://github.com/KrisChan33/BatchScripts/blob/main/images/interface.gif">
+
+#### How to it  Works
+  <img align = "center" src = "https://github.com/KrisChan33/BatchScripts/blob/main/images/how%20it%20works.gif"> -->
+
+ What the Batch can Show? this are the example; 
+ 
+-   Server address
+- 
+-  Ip address
+
+-  Operationg System with Version
+
+-  username
+
+-   time and date execute the batch file #2 
+
+- Profiles on interface Wi-Fi
+    - User profiles
+      
+-  Windows IP Configuration
+   -  Wireless Lan Adapter Local Area Connections
+   -  Ethernet Adapter
+   -  Wireless Lan Adapter
+   -  Ethernet adapter Bluetooth Network Connection
+-  Size
+  
+-  Cpu information
+  
+-  System Informations like; 
+Host Name:         
+OS Name:               
+OS Version:              
+OS Manufacturer:  
+OS Configuration:  
+OS Build Type:           
+Registered Owner:          
+Registered Organization:  
+Product ID:               
+Original Install Date:    
+System Boot Time:         
+System Manufacturer:    
+System Model:         
+System Type:             
+Processor(s):             
+                      
+BIOS Version:           
+Windows Directory:       
+System Directory:       
+Boot Device:             
+System Locale:             
+Input Locale:              
+Time Zone:                
+Total Physical Memory:    
+Available Physical Memory: 
+Virtual Memory: Max Size:  
+Virtual Memory: Available: 
+Virtual Memory: In Use:  
+Page File Location(s):     
+Domain:                   
+Logon Server:             
+Hotfix(s):                  
+Network Card(s):          
+
+
+   
 
 <br/>
 
