@@ -134,7 +134,8 @@ This are the Batch I manually Created some batch file have a Specific Used so ch
   
 -  Cpu information
   
--  System Informations like; 
+-  System Informations like;
+  
 Host Name:         
 OS Name:               
 OS Version:              
