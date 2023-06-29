@@ -113,7 +113,7 @@ This are the Batch I manually Created some batch file have a Specific Used so ch
  What the Batch can Show? this are the example; 
  
 -   Server address
-- 
+  
 -  Ip address
 
 -  Operationg System with Version
