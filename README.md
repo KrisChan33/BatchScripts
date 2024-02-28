@@ -243,7 +243,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
     - [ ] Chinese
     - [ ] Spanish
 
-See the [open issues](https://github.com/KrisChan33/Obstacle-Odyssey-3D/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/KrisChan33/BatchScripts/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -278,7 +278,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [https://github.com/KrisChan33/Obstacle-Odyssey-3D](https://github.com/KrisChan33/Obstacle-Odyssey-3D)
+Project Link: [https://github.com/KrisChan33/BatchScripts](https://github.com/KrisChan33/BatchScripts)
 
 Email Address: Ktadeo.pbox@parsu.edu.ph
 
@@ -308,13 +308,13 @@ Email Address: Ktadeo.pbox@parsu.edu.ph
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [Godot Engine]:https://godotengine.org/
 [contributors-shield]: https://img.shields.io/github/contributors/KrisChan33/BatchScripts.svg?style=for-the-badge
-[contributors-url]: https://github.com/KrisChan33/Obstacle-Odyssey-3D/graphs/contributors
+[contributors-url]: https://github.com/KrisChan33/BatchScripts/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/KrisChan33/BastchScripts.svg?style=for-the-badge
-[forks-url]: https://github.com/KrisChan33/Obstacle-Odyssey-3D/network/members
+[forks-url]: https://github.com/KrisChan33/BatchScripts/network/members
 [stars-shield]: https://img.shields.io/github/stars/KrisChan33/BatchScripts.svg?style=for-the-badge
-[stars-url]: https://github.com/KrisChan33/Obstacle-Odyssey-3D/stargazers
+[stars-url]: https://github.com/KrisChan33/BatchScripts/stargazers
 [issues-shield]: https://img.shields.io/github/issues/KrisChan33/BatchScripts.svg?style=for-the-badge
-[issues-url]: https://github.com/KrisChan33/Obstacle-Odyssey-3D/issues
+[issues-url]: https://github.com/KrisChan33/BatchScripts/issues
 [license-shield]: https://img.shields.io/github/license/KrisChan33/BatchScripts.svg?style=for-the-badge
 [license-url]: https://github.com/KrisChan33/BatchScripts/blob/master/LICENSE
 [linkedin-url]: https://linkedin.com/in/kristian-jay-tadeo
