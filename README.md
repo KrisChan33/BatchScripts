@@ -194,10 +194,10 @@ Network Card(s):
 
 This section  list are the major  used to to develop the Project.
 
-- [GDScript](https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/index.html)
+- Batch
 
-- Mixamo:[Character](https://godotengine.org/)
-  
+- Notepad
+
  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
